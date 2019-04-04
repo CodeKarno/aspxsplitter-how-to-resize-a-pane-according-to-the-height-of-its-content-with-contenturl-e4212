@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [ContentPage.aspx](./CS/WebSite/ContentPage.aspx) (VB: [ContentPage.aspx.vb](./VB/WebSite/ContentPage.aspx.vb))
+* [ContentPage.aspx](./CS/WebSite/ContentPage.aspx) (VB: [ContentPage.aspx](./VB/WebSite/ContentPage.aspx))
 * [Default.aspx](./CS/WebSite/Default.aspx)
 <!-- default file list end -->
 # ASPxSplitter - How to resize a pane according to the height of its content with ContentUrl
